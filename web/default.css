@@ -1,0 +1,38 @@
+
+body {
+    background-color: #ffffff;
+    color: black;
+    font-family: 'Lato', sans-serif;
+}
+
+div.header {
+    font-size: 90px;
+    text-align: center;
+}
+div.headline {
+    font-size: 40px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    border-spacing: 32;
+}
+
+td {
+    -webkit-border-radius: 6px;
+    background-color: #eeeeee;
+    font-size: 70px;
+    opacity: 0.5;
+    width: 33%;
+}
+
+
+
+
